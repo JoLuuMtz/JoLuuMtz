@@ -19,6 +19,6 @@ Currently studing System Enginnering, I am a Software and Web Developer with exp
 ![My Skills](https://skillicons.dev/icons?i=,git,github,npm,visualstudio,vscode,windows,aws,docker)
 
 
-
-![My Skills](https://skillicons.dev/icons?i=linkedin)
+You can contact me in linkedin 
+![My Skills](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/jorge-martinez-145a90257/)
 
