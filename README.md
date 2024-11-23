@@ -7,7 +7,7 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,bootstrap,cs,dotnet,mongodb,mysql,sqlserver,wordpress)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,azure,bootstrap,cs,dotnet,mongodb,mysql,wordpress)
 
 
 ## My Tools 
