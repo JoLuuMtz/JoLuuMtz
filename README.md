@@ -12,4 +12,4 @@
 
 ## My Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=,git,github,npm,visualstudio,vscode,window,nuget,aws,docker)]
+![My Skills](https://skillicons.dev/icons?i=,git,github,npm,visualstudio,vscode,window,nuget,aws,docker)
