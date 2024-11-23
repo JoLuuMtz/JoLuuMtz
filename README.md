@@ -18,4 +18,6 @@ Currently studing System Enginnering, I am a Software and Web Developer with exp
 # You can contact me in linkedin 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jorge-martinez-145a90257/)
 
+  ![Sumanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true)
+
 
