@@ -13,7 +13,7 @@ Currently studing System Enginnering, I am a Software and Web Developer with exp
 
 ## My Skills in Software Developer 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,bootstrap,cs,dotnet,mongodb,mysql,wordpress,tailwind,sql)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,bootstrap,cs,dotnet,mongodb,mysql,wordpress,tailwind)
 
 ## My Tools 
 
