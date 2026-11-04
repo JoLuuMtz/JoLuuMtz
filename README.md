@@ -1,5 +1,7 @@
 # Hey there! 👋 I'm Jorge Martínez
 
+
+
 ### Systems Engineer | Full Stack Developer | Backend Developer
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
@@ -13,6 +15,8 @@ Currently, I'm strengthening my backend development skills with **Java and Sprin
 I'm passionate about technology, continuous learning, problem-solving, and building solutions that bring value to businesses and users. I enjoy teamwork, sharing knowledge, and taking on new technical challenges.
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
